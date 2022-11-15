@@ -40,6 +40,9 @@
     margin-bottom: 0px;
 }
 .btn-cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -49,6 +52,12 @@
     border-radius: 0px 0px 8px 8px;
     color: #0E161A;
     font-size: 15px;
+}
+.btn-text{
+    margin-right: 5px;
+    color: #0E161A;
+    font-size: 15px;
+    font-weight: 500;
 }
 .btn-cart:hover{
     background-color: #FF9900;
