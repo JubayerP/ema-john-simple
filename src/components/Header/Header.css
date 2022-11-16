@@ -5,6 +5,9 @@
     height: 80px;
     background-color: #1C2B35;
     padding: 0 140px 0 140px;
+    position: sticky;
+    top: 0;
+    z-index: 2;
 }
 
 .header div a {

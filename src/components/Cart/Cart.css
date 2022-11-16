@@ -1,0 +1,26 @@
+.cart{
+    position: sticky;
+    top: 19%;
+}
+.order-summary{
+    text-align: center;
+    font-size: 25px;
+    color: #1C2B35;
+    line-height: 30px;
+    font-weight: 400;
+}
+.cart-info{
+    padding-left: 23px;
+}
+.cart-info p{
+    color: #2A414F;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.cart-info h6{
+    font-size: 21px;
+    line-height: 25px;
+    font-weight: 400;
+    color: #0E161A;
+}
